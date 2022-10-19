@@ -1,12 +1,11 @@
 #!/bin/bash
 
 # stage changes
-git add .
+git add
 
 # commit changes
-git commit -m "test"
+git commit
 
 # push changes
 git push
 
-# test text
